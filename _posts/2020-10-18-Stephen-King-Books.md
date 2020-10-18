@@ -16,3 +16,11 @@ Stephen King|Brennen muss Salem|Roman|1975|656|🔥 100|
 Stephen King|Shining|Roman|1977|624|93|
 Richard Bachman|Amok|Roman|1977|220|71|
 Stephen King|Nachtschicht|Kurzgeschichten|1978|220|74|
+| Autor           | Titel              | Art             | Erscheinungsjahr | Seitenzahl | Rating |
+| --------------- | ------------------ | --------------- |:----------------:|:----------:|:------:|
+| Stephen King    | Carrie             | Roman           |       1974       |    320     |   95   |
+| Stephen King    | Brennen muss Salem | Roman           |       1975       |    656     | 🔥 100 |
+| Stephen King    | Shining            | Roman           |       1977       |    624     |   93   |
+| Richard Bachman | Amok               | Roman           |       1977       |    220     |   71   |
+| Stephen King    | Nachtschicht       | Kurzgeschichten |       1978       |    336     |   79   |
+|                 |                    |                 |                  |            |        |
